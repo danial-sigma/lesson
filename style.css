@@ -1,0 +1,13 @@
+body{
+    background-color: cadetblue;
+    color: azure;
+    text-align: center;
+    text-decoration-color:black;
+}
+h1{
+    color:rgb(97, 72, 168);
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250;
+}
